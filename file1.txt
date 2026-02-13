@@ -1,4 +1,9 @@
 this is line1
 THIS IS LINE2
 THIS IS LINE3
+<<<<<<< HEAD
 this is line 6
+=======
+this is line8
+this is line9
+>>>>>>> b474ab2 (first commit)
